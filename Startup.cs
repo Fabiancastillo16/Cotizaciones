@@ -44,7 +44,7 @@ namespace cotizaciones
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Cotizacion}/{action=Index}/{id?}");
             });
         }
     }
