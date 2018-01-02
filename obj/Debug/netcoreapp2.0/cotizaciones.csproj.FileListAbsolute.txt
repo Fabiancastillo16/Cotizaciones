@@ -1,0 +1,10 @@
+C:\Users\Fcastillo\cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.deps.json
+C:\Users\Fcastillo\cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.runtimeconfig.json
+C:\Users\Fcastillo\cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.runtimeconfig.dev.json
+C:\Users\Fcastillo\cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.dll
+C:\Users\Fcastillo\cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.pdb
+C:\Users\Fcastillo\cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.csproj.CoreCompileInputs.cache
+C:\Users\Fcastillo\cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.AssemblyInfoInputs.cache
+C:\Users\Fcastillo\cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.AssemblyInfo.cs
+C:\Users\Fcastillo\cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.dll
+C:\Users\Fcastillo\cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.pdb
