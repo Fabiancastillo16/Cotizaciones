@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Data.Sqlite;
 using Cotizaciones.Data;
+using Cotizaciones.Models;
 using Microsoft.Extensions.Logging;
 using Xunit;
 using System.Collections.Generic;
@@ -66,6 +67,21 @@ namespace Cotizaciones.Models
             }
 
             Logger.LogInformation("Test IMainService.Initialize() ok");
+        }
+
+        [Fact]
+        public void testPesona()
+        {
+
+            Persona p = new Persona() ;
+            Assert.True(p.validarRut("18971890-k"));
+            Assert.False(p.validarRut(""));
+            Assert.False(p.validarRut("14523478-2"));
+            Assert.True(p.validarPalabra("jose"));
+            Assert.True(p.validarPalabra("aguilar"));
+            Assert.True(p.validarPalabra("Contreras"));
+            
+            
         }
 
         void IDisposable.Dispose()

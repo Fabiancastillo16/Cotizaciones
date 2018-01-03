@@ -18,3 +18,13 @@ C:\Users\franco\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.AssemblyInfoIn
 C:\Users\franco\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.AssemblyInfo.cs
 C:\Users\franco\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.dll
 C:\Users\franco\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.pdb
+C:\Cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.deps.json
+C:\Cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.runtimeconfig.json
+C:\Cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.runtimeconfig.dev.json
+C:\Cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.dll
+C:\Cotizaciones\bin\Debug\netcoreapp2.0\cotizaciones.pdb
+C:\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.csproj.CoreCompileInputs.cache
+C:\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.AssemblyInfoInputs.cache
+C:\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.AssemblyInfo.cs
+C:\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.dll
+C:\Cotizaciones\obj\Debug\netcoreapp2.0\cotizaciones.pdb
