@@ -12,16 +12,7 @@
     <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-
-            <div class="form-group">
-                <input type="Button" value="Agregar cliente" onclick="location='/Persona/Create'"/>
-                
-            </div>
-
-            <div >
-                <label asp-for="Persona" class="control.label"></label>
-            </div>
-
+                                   
             <div class="form-group">
                 <label asp-for="descripcion" class="control-label"></label>
                 <input asp-for="descripcion" class="form-control" />

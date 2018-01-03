@@ -10,6 +10,10 @@ namespace cotizaciones.Controllers
 {
     public class HomeController : Controller
     {
+        public IActionResult Inicio(){
+
+            return View();
+        }
         public IActionResult Index()
         {
             return View();
