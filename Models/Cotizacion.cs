@@ -20,8 +20,7 @@ namespace Cotizaciones.Models {
 
         public double monto { get; set; }
 
-        public bool status {get; set;}
-
+        
         
     }
 }

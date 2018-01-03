@@ -149,5 +149,7 @@ namespace cotizaciones.Controllers
         {
             return _context.Cotizaciones.Any(e => e.id == id);
         }
+
+        
     }
 }

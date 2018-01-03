@@ -4,6 +4,9 @@ using Cotizaciones.Models;
 namespace Cotizaciones.Data {
     public class CotizacionesContext : DbContext
     {
+        public CotizacionesContext(){
+            
+        }
         public CotizacionesContext(DbContextOptions<CotizacionesContext> options) : base(options)
         {
         }

@@ -44,10 +44,10 @@ namespace cotizaciones.Controllers
         }
 
         // GET: Persona/Create
-        public IActionResult Create()
-        {
-            return View();
-        }
+       // public IActionResult Create()
+        //{
+            //return View();
+        //}
 
         // POST: Persona/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
@@ -149,5 +149,7 @@ namespace cotizaciones.Controllers
         {
             return _context.Personas.Any(e => e.Id == id);
         }
+
+        
     }
 }
